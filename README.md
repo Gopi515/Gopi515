@@ -12,7 +12,7 @@
 
 ## 📲 Contact Me
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gopinath-ghosh-2245b5201/)](https://www.linkedin.com/in/gopinath-ghosh-2245b5201/)
-[![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:priyadarsi02@gmail.com)](mailto:priyadarsi02@gmail.com)
+[![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gopinathghosh514@gmail.com)](mailto:gopinathghosh514@gmail.com)
 
 ## **🔎Skills and Tools:**
 - **Languages:**
