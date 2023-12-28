@@ -60,7 +60,7 @@
   <summary>⚙️ <b> Hardware Configuration</b></summary>
   	<ul>
 		<li><a href="https://www.microsoft.com/software-download/windows11">🪟</a><b>OS:</b> Windows 11. </li>
-	     	<li><a href="https://www.acer.com/gb-en/laptops/aspire/aspire-7-intel/pdp/NH.Q87EK.002">💻</a><b>Laptop: </b>ACER Aspire 7: i5 9th gen, NVIDIA geforce GTX 1650ti. </li>
+	     	<li><a href="https://www.dell.com/en-in/shop/laptops-2-in-1-pcs/inspiron-15-5510-laptop/spd/inspiron-15-5510-laptop">💻</a><b>Laptop: </b>DELL Inspiron 5510: i5 11th gen, Intel® Iris® Xe. </li>
   	   	<li><a>🌐</a><b>Browser: </b> Google Chrome and Microsoft Edge.</li>
 	     	<li><a href="https://code.visualstudio.com/">🖋️</a><b>Code Editor:</b> VSCode.</li>
 	     <li>⬆️<b>To Stay Updated:</b> Linkedin, Reddit.</li>
