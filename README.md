@@ -22,7 +22,7 @@
 </br></br> [![VS code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/) [![Pycharm](https://skillicons.dev/icons?i=py)](https://www.jetbrains.com/pycharm/) [![Replit](https://skillicons.dev/icons?i=replit)](https://replit.com/~) [![Codesandbox](https://skillicons.dev/icons?i=codesandbox)](https://codesandbox.io/)
   
 - **Frameworks & Libraries:**
-</br></br> [![bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/) [![Node](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en) [![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com/) [![React](https://skillicons.dev/icons?i=react)](https://react.dev/) [![Jquery](https://skillicons.dev/icons?i=jquery)](https://jquery.com/) [![NPM](https://skillicons.dev/icons?i=npmjs)](https://www.npmjs.com/)
+</br></br> [![bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/) [![Node](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en) [![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com/) [![React](https://skillicons.dev/icons?i=react)](https://react.dev/) [![NPM](https://skillicons.dev/icons?i=npmjs)](https://www.npmjs.com/)
 
 - **Deployment Platforms:**
 </br></br> [![vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com/) [![Netlify](https://skillicons.dev/icons?i=netlify)](https://www.netlify.com/) [![Heroku](https://skillicons.dev/icons?i=heroku)](https://id.heroku.com/login) [![Github](https://skillicons.dev/icons?i=github)](https://github.com/) [![Render](https://skillicons.dev/icons?i=render)](https://render.com/)
