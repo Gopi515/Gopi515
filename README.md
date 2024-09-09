@@ -28,7 +28,7 @@
 </br></br> [![vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com/) [![Netlify](https://skillicons.dev/icons?i=netlify)](https://www.netlify.com/) [![Heroku](https://skillicons.dev/icons?i=heroku)](https://id.heroku.com/login) [![Github](https://skillicons.dev/icons?i=github)](https://github.com/) [![Render](https://skillicons.dev/icons?i=render)](https://render.com/)
 
 - **Others:**
-</br></br> [![figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/) [![blender](https://skillicons.dev/icons?i=blender)](https://www.blender.org/) [![Adobe Photoshop](https://skillicons.dev/icons?i=ps)](https://www.adobe.com/in/products/photoshop.html#) [![Adobe AfterEffects](https://skillicons.dev/icons?i=ae)](https://www.adobe.com/in/products/aftereffects.html?gclid=Cj0KCQjwzdOlBhCNARIsAPMwjbyQTOBS1Q_T9yYRy7nL4-aYZ50pe60JlMbFo_lq-ut-sAGsAmWLHl4aAiVREALw_wcB&sdid=STLMM87Z&mv=search&ef_id=Cj0KCQjwzdOlBhCNARIsAPMwjbyQTOBS1Q_T9yYRy7nL4-aYZ50pe60JlMbFo_lq-ut-sAGsAmWLHl4aAiVREALw_wcB:G:s&s_kwcid=AL!3085!3!248207268711!e!!g!!adobe%20after%20effects!221167268!17525486588)
+</br></br> [![figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/) [![Adobe Photoshop](https://skillicons.dev/icons?i=ps)](https://www.adobe.com/in/products/photoshop.html#) [![Adobe AfterEffects](https://skillicons.dev/icons?i=ae)](https://www.adobe.com/in/products/aftereffects.html?gclid=Cj0KCQjwzdOlBhCNARIsAPMwjbyQTOBS1Q_T9yYRy7nL4-aYZ50pe60JlMbFo_lq-ut-sAGsAmWLHl4aAiVREALw_wcB&sdid=STLMM87Z&mv=search&ef_id=Cj0KCQjwzdOlBhCNARIsAPMwjbyQTOBS1Q_T9yYRy7nL4-aYZ50pe60JlMbFo_lq-ut-sAGsAmWLHl4aAiVREALw_wcB:G:s&s_kwcid=AL!3085!3!248207268711!e!!g!!adobe%20after%20effects!221167268!17525486588)
 
 ## 📈 Stats:
 <table>
