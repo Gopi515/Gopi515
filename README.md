@@ -16,10 +16,11 @@
 
 ## **🔎Skills and Tools:**
 - **Languages:**
-</br></br> [![Html](https://skillicons.dev/icons?i=html)](https://www.w3schools.com/html/) [![css3](https://skillicons.dev/icons?i=css)](https://www.w3schools.com/css/)  [![Javascript](https://skillicons.dev/icons?i=js)](https://www.w3schools.com/js/) [![C](https://skillicons.dev/icons?i=c)](https://www.programiz.com/c-programming) [![PHP](https://skillicons.dev/icons?i=php)]((https://www.php.net/)) [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/) [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
+</br></br> [![Html](https://skillicons.dev/icons?i=html)](https://www.w3schools.com/html/) [![css3](https://skillicons.dev/icons?i=css)](https://www.w3schools.com/css/)  [![Javascript](https://skillicons.dev/icons?i=js)](https://www.w3schools.com/js/) [![C](https://skillicons.dev/icons?i=c)](https://www.programiz.com/c-programming) [![PHP](https://skillicons.dev/icons?i=php)]((https://www.php.net/)) [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/) [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/) [![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 
 - **Integrated Development Environments:**
-</br></br> [![VS code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/) [![Replit](https://skillicons.dev/icons?i=replit)](https://replit.com/~) [![Codesandbox](https://skillicons.dev/icons?i=codesandbox)](https://codesandbox.io/)
+</br></br> [![VS code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+[![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)](https://code.visualstudio.com/) [![Replit](https://skillicons.dev/icons?i=replit)](https://replit.com/~) [![Codesandbox](https://skillicons.dev/icons?i=codesandbox)](https://codesandbox.io/)
   
 - **Frameworks & Libraries:**
 </br></br> [![bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/) [![Node](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en) [![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com/) [![React](https://skillicons.dev/icons?i=react)](https://react.dev/) [![NPM](https://skillicons.dev/icons?i=npmjs)](https://www.npmjs.com/)
