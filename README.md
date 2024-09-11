@@ -16,15 +16,14 @@
 
 ## **🔎Skills and Tools:**
 - **Languages:**
-</br></br> [![Html](https://skillicons.dev/icons?i=html)](https://www.w3schools.com/html/) [![css3](https://skillicons.dev/icons?i=css)](https://www.w3schools.com/css/)  [![Javascript](https://skillicons.dev/icons?i=js)](https://www.w3schools.com/js/) [![PHP](https://skillicons.dev/icons?i=php)]((https://www.php.net/)) [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/) [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
-[![C](https://skillicons.dev/icons?i=c)](https://www.programiz.com/c-programming) [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/en/)
+</br></br> [![Html](https://skillicons.dev/icons?i=html)](https://www.w3schools.com/html/) [![Css3](https://skillicons.dev/icons?i=css)](https://www.w3schools.com/css/) [![Javascript](https://skillicons.dev/icons?i=js)](https://www.w3schools.com/js/) [![PHP](https://skillicons.dev/icons?i=php)]((https://www.php.net/)) [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/) [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=oracle)(https://www.oracle.com/in/database/) [![C](https://skillicons.dev/icons?i=c)](https://www.programiz.com/c-programming) [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/en/)
 
 - **Integrated Development Environments:**
 </br></br> [![VS code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
 [![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)](https://www.jetbrains.com/idea/) [![Replit](https://skillicons.dev/icons?i=replit)](https://replit.com/~) [![Codesandbox](https://skillicons.dev/icons?i=codesandbox)](https://codesandbox.io/)
   
 - **Frameworks & Libraries:**
-</br></br> [![bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/) [![Node](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en) [![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com/) [![React](https://skillicons.dev/icons?i=react)](https://react.dev/) [![NPM](https://skillicons.dev/icons?i=npmjs)](https://www.npmjs.com/)
+</br></br> [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/) [![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com) [![Node](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en) [![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com/) [![React](https://skillicons.dev/icons?i=react)](https://react.dev/) [![NPM](https://skillicons.dev/icons?i=npm)](https://www.npmjs.com/)
 
 - **Deployment Platforms:**
 </br></br> [![vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com/) [![Netlify](https://skillicons.dev/icons?i=netlify)](https://www.netlify.com/) [![Heroku](https://skillicons.dev/icons?i=heroku)](https://id.heroku.com/login) [![Github](https://skillicons.dev/icons?i=github)](https://github.com/) [![Render](https://skillicons.dev/icons?i=render)](https://render.com/)
