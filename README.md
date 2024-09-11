@@ -16,7 +16,8 @@
 
 ## **🔎Skills and Tools:**
 - **Languages:**
-</br></br> [![Html](https://skillicons.dev/icons?i=html)](https://www.w3schools.com/html/) [![css3](https://skillicons.dev/icons?i=css)](https://www.w3schools.com/css/)  [![Javascript](https://skillicons.dev/icons?i=js)](https://www.w3schools.com/js/) [![C](https://skillicons.dev/icons?i=c)](https://www.programiz.com/c-programming) [![PHP](https://skillicons.dev/icons?i=php)]((https://www.php.net/)) [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/) [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/) [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/en/)
+</br></br> [![Html](https://skillicons.dev/icons?i=html)](https://www.w3schools.com/html/) [![css3](https://skillicons.dev/icons?i=css)](https://www.w3schools.com/css/)  [![Javascript](https://skillicons.dev/icons?i=js)](https://www.w3schools.com/js/) [![PHP](https://skillicons.dev/icons?i=php)]((https://www.php.net/)) [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/) [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
+[![C](https://skillicons.dev/icons?i=c)](https://www.programiz.com/c-programming) [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/en/)
 
 - **Integrated Development Environments:**
 </br></br> [![VS code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
